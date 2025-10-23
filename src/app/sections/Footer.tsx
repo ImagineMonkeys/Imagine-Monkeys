@@ -77,7 +77,7 @@ const Footer = () => {
             <div>
               <h4 className="font-semibold mb-4">Email</h4>
               <div className="flex">
-                <a href="mailto:hnzlencore@gmail.com?subject=Inquiring Monkey">hanzel.mamarungkas09@gmail.com</a>
+                <a href="mailto:hanzel.mamarungkas09@gmail.com?subject=Inquiring to Monkeys">hanzel.mamarungkas09@gmail.com</a>
               </div>
             </div>
           </div>
