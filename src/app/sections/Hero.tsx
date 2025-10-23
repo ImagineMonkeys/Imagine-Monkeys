@@ -45,7 +45,7 @@ const Hero = () => {
         </div>
         
         <p className="text-lg sm:text-xl text-muted-foreground max-w-3xl mx-auto mb-10">
-          We&apos;re a team of passionate developers, designers, and engineers crafting 
+          We&apos;re a team of passionate developers crafting 
           high-quality digital products — from concept to deployment.
         </p>
 

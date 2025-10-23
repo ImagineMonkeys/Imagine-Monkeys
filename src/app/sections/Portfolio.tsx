@@ -8,18 +8,18 @@ import SplitText from "@/components/SplitText";
 
 const projects = [
   {
-    title: "Patrol Web Dashboard",
-    subtitle: "Attendance Monitoring System for Deployed Personnel",
-    description: "A web dashboard built with Vue.js and Python Flask for monitoring attendance of deployed personnel.",
+    title: "PNP Patrol Web Dashboard",
+    subtitle: "Attendance Monitoring System for PNP Deployed Personnel",
+    description: "A web dashboard for Philippine National Police built with Vue.js and Python Flask for monitoring attendance of deployed personnel.",
     image: webpatrolImg,
     techStack: ["Vue.js", "Python Flask", "MySQL"],
     outcome: "Enabled real-time attendance tracking and centralized reporting for management.",
     rating: null
   },
   {
-    title: "Patrol Mobile App",
-    subtitle: "Attendance Logging and Tracking App for Deployed Personnel",
-    description: "A mobile app built with React Native for logging and tracking attendance of deployed personnel.",
+    title: "PNP Patrol Mobile App",
+    subtitle: "Attendance Logging and Tracking App for PNP Deployed Personnel",
+    description: "A mobile app for Philippine National Police built with React Native for logging and tracking attendance of deployed personnel.",
     image: mobilepatrolImg,
     techStack: ["React Native", "Python Flask", "MySQL"],
     outcome: "Improved field personnel attendance accuracy and streamlined data syncing with the web dashboard.",

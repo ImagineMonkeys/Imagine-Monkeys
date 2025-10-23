@@ -1,8 +1,8 @@
 import { Card } from "@/components/Card";
 import { IoLogoGithub, IoLogoLinkedin } from "react-icons/io5";
-import hanzelImg from "@/assets/IMo.png";
-import alexImg from "@/assets/IMo.png"; 
-import linaImg from "@/assets/IMo.png";
+import hanzelImg from "@/assets/Hanzel.png";
+import clintImg from "@/assets/Clint.png"; 
+import claudioImg from "@/assets/Claudio.png";
 import Image from "next/image";
 import SplitText from "@/components/SplitText";
 
@@ -21,7 +21,7 @@ const teamMembers = [
     name: "Clint Egargo",
     role: "Back-End Developer",
     description: "Develops secure, scalable systems using Rust, Python, and JavaScript. Experienced in Linux and focused on performance and reliability.",
-    image: alexImg,
+    image: clintImg,
     socials: {
       github: "#",
       linkedin: "https://www.linkedin.com/in/clintegargo",
@@ -31,7 +31,7 @@ const teamMembers = [
     name: "Claudio Daruca",
     role: "Full Stack Developer",
     description: "Builds modern web and mobile apps with VueJS (Quasar), Next.js, and React Native. Experienced in PHP, Python, and JavaScript, delivering scalable, user-focused solutions.",
-    image: linaImg,
+    image: claudioImg,
     socials: {
       github: "#",
       linkedin: "https://www.linkedin.com/in/daruca-claudio",
@@ -51,7 +51,7 @@ const About = () => {
                 splitType='words'
             />
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-            We&apos;re a multidisciplinary group of software engineers and creatives who love 
+            We&apos;re a multidisciplinary group of software developers and creatives who love 
             turning ideas into real-world applications. Our mission is simple — build efficient, 
             scalable, and user-focused solutions that empower businesses to grow.
           </p>
