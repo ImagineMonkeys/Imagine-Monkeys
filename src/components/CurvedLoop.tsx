@@ -1,3 +1,4 @@
+"use client";
 import { useRef, useEffect, useState, useMemo, useId, FC, PointerEvent } from 'react';
 
 interface CurvedLoopProps {
