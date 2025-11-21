@@ -23,7 +23,7 @@ const teamMembers = [
     description: "Develops secure, scalable systems using Rust, Python, and JavaScript. Experienced in Linux and focused on performance and reliability.",
     image: clintImg,
     socials: {
-      github: "#",
+      github: "https://github.com/egargo",
       linkedin: "https://www.linkedin.com/in/clintegargo",
     },
   },
@@ -33,7 +33,7 @@ const teamMembers = [
     description: "Builds modern web and mobile apps with VueJS (Quasar), Next.js, and React Native. Experienced in PHP, Python, and JavaScript, delivering scalable, user-focused solutions.",
     image: claudioImg,
     socials: {
-      github: "#",
+      github: "https://github.com/claude47",
       linkedin: "https://www.linkedin.com/in/daruca-claudio",
     },
   },
